@@ -1,5 +1,7 @@
 # Magic Ball Pitch
 
+[Project Board](https://github.com/orgs/TheOdinProject/projects/36/views/1)
+
 ## Problem
 Users have reported that making decisions is stressful. They are tired of multiple meetings where issues are debated and would like a web app that can make business-critical decisions for them.
 
