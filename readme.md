@@ -18,6 +18,7 @@ The UI should have a button that a user can click that will update the Ball's "w
 
 
 ## No-gos
-We don't need animations for this version of the toy. The clients need the toy ASAP and don't care about animations.
-
+- We don't need animations for this version of the toy. The clients need the toy ASAP and don't care about animations.
+- No mobile responsiveness needed.
+- Accessibility will be addressed in next project cycle.
 Since the possible answers are few, we don't need a backend. We can use JavaScript, HTML, and CSS.
